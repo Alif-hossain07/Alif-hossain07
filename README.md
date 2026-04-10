@@ -1,21 +1,15 @@
-<table align="center">
-<tr>
-<td width="50%" align="left">
+<h1 align="center">MD. ALIF HOSSAIN </h1>
 
-<h1>MD. ALIF HOSSAIN</h1>
-<h3>Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=38BDF8&lines=Building+Modern+Web+Applications;Clean+UI+Focused;Performance+Driven+Developer"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Clean+UI+Focused;Performance+Driven+Developer" />
+</p>
 
-</td>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000"/>
+</p>
 
-<td width="50%" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</td>
-</tr>
-</table>
 
 🚀 About Me:<br>👋 MD. Alif Hossain here- a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). Currently pursuing my BSc in CSE at American International University-Bangladesh (AIUB), I’m passionate about building scalable, user-focused web applications. I focus on writing clean, efficient code and continuously improving my skills to stay aligned with modern development practices.
 
