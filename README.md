@@ -59,7 +59,7 @@ DESIGN <br>
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Alif-hossain07&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Alif-hossain07&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
